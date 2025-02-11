@@ -1,1 +1,1 @@
-The .dbc files contains notebooks to launch an AI chatbot in databricks. Instructions are included in the notebook files itself.
+The .dbc file contains notebooks to launch an AI chatbot in databricks. Instructions are included in the notebook files itself. Feel free to reach out to me if you need help with setting up this project.
